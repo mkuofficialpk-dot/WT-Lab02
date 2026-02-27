@@ -52,7 +52,7 @@ This project is deployed using **GitHub Pages**.
 The website can be accessed using the following link:
 
 **Live Website:**
-https://yourusername.github.io/repository-name/
+https://mkuofficialpk-dot.github.io/WT-Lab02/
 
 ---
 
